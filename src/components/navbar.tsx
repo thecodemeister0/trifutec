@@ -42,26 +42,26 @@ const ListItem = React.forwardRef<
 });
 ListItem.displayName = "ListItem";
 
-const services = [
-  {
-    title: "Audio/Visual Solutions",
-    href: "/services/audio-visual",
-    description:
-      "Professional home theater and audio/visual installation services.",
-  },
-  {
-    title: "Network Solutions",
-    href: "/services/networking",
-    description: "Enterprise-grade networking and infrastructure solutions.",
-  },
-  {
-    title: "Security Systems",
-    href: "/services/security",
-    description: "CCTV and comprehensive security system installations.",
-  },
-  {
-    title: "Business IT",
-    href: "/services/business-it",
-    description: "Complete IT solutions for businesses of all sizes.",
-  },
-];
+// const services = [
+//   {
+//     title: "Audio/Visual Solutions",
+//     href: "/services/audio-visual",
+//     description:
+//       "Professional home theater and audio/visual installation services.",
+//   },
+//   {
+//     title: "Network Solutions",
+//     href: "/services/networking",
+//     description: "Enterprise-grade networking and infrastructure solutions.",
+//   },
+//   {
+//     title: "Security Systems",
+//     href: "/services/security",
+//     description: "CCTV and comprehensive security system installations.",
+//   },
+//   {
+//     title: "Business IT",
+//     href: "/services/business-it",
+//     description: "Complete IT solutions for businesses of all sizes.",
+//   },
+// ];

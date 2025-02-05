@@ -19,8 +19,8 @@ export function Contact() {
             Contact Us
           </h2>
           <p className="mx-auto max-w-2xl text-slate-300">
-            Get in touch with us for all your technology needs. We're here to
-            help!
+            {`Get in touch with us for all your technology needs. We're here to
+            help!`}
           </p>
         </div>
         <div className="grid gap-8 lg:grid-cols-3">
@@ -56,7 +56,7 @@ export function Contact() {
             <CardHeader>
               <CardTitle className="text-white">Send us a Message</CardTitle>
               <CardDescription>
-                Fill out the form below and we'll get back to you
+                {`Fill out the form below and we'll get back to you`}
               </CardDescription>
             </CardHeader>
             <CardContent>
